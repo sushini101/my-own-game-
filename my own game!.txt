@@ -1,0 +1,46 @@
+
+MY OWN GAME!
+name: 
+game elements:
+
+1. Characters:
+- you ( the fish ) PC
+- obstacles (Sharks, Coral reefs, rocks, seweed, fishers, whales) NPC
+
+2. Story:
+ - a Fish is on a journey from a shallow river to the ocean! Help him face all the obstacles along the way...
+
+3. Rules
+- Fish can move up, down and forward (not backwards)
+- if you bump into an obstacle, you will loose one of your 3 lives
+- if all your lives run out then you will have to restart
+- to end the game, reach the ocean
+- points gained depends on abstacle
+- you loose points after hitting an obstacle
+- timer to see how look it took to rach the ocean
+- possible ways to get lives back (food)
+
+4. Balance:
+- Certain obstacles can move around a little bit
+- Fish can move faster than any obstacle
+- you have 3 chances before restarting
+
+5. Adaptivity:
+- More obstacles as you get closer to the ocean
+- fish moves faster as you get closer to the ocean
+
+6. Chance & Skill: 
+- A moving obstacle might move away from you by luck
+- Some players might be able to keep up with the speed better than others
+
+7. Feedback:
+- "Uh Oh!" will appear after hitting an obstacle
+- music gets faster as you get faster
+
+8. Goals:
+- reach the ocean
+- don't loose all 3 lives
+
+
+EXTRA IDEAS:
+- people fishing for you!
